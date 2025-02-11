@@ -12,9 +12,6 @@ This repository contains a **Docker Compose** setup for a self-hosted **Servarr*
 
 ## 📌 Features
 - **Fully automated media management** 📺 🎵 📚
-- **OneDrive for storage** ☁️
-- **Backblaze for backups** 🔄
-- **Nginx reverse proxy for secure access** 🔒
 - **Optimized Docker Compose setup** 🛠️
 
 ## 🛠️ Setup Instructions
